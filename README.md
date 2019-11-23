@@ -15,5 +15,4 @@ Chiaroscuro is a GTK variant switcher, in Elementary OS light variant is activat
 Steps:
 
 1) Exce in terminal "xprop WM_CLASS" and select the window you want to configure, you will see the window information, copy the second value.
-
 ![Settings Screenshot 1](https://github.com/arkaitzsilva/chiaroscuro/blob/master/data/images/step_1.png)
