@@ -1,4 +1,4 @@
-project('gtk-variant-switcher', 'vala', 'c')
+project('com.github.arkaitzsilva.chiaroscuro', 'vala', 'c')
 
 add_global_arguments('-DWNCK_I_KNOW_THIS_IS_UNSTABLE', language : 'c')
 add_project_arguments(['-DGETTEXT_PACKAGE="@0@"'.format(meson.project_name())], language: 'c')
