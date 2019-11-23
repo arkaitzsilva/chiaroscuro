@@ -1,0 +1,10 @@
+# ninja log v5
+0	441	1574452374	gtk-variant-switcher@exe/src/Main.c	e7387d60653bdb52
+0	441	1574452374	gtk-variant-switcher@exe/src/configs/Constants.c	e7387d60653bdb52
+0	441	1574452374	gtk-variant-switcher@exe/src/configs/Settings.c	e7387d60653bdb52
+442	709	1574452374	gtk-variant-switcher@exe/meson-generated_src_configs_Constants.c.o	c3a78f8802c96eb5
+442	935	1574452374	gtk-variant-switcher@exe/meson-generated_src_configs_Settings.c.o	7728c990aed393e6
+442	1213	1574452375	gtk-variant-switcher@exe/meson-generated_src_Main.c.o	9b198fc594c84f41
+1230	1387	1574452375	gtk-variant-switcher	54388a04c28f18a0
+4	533	0	meson-install	9bd7faa9472bf40f
+5	548	0	meson-install	9bd7faa9472bf40f

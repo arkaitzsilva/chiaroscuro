@@ -1,0 +1,22 @@
+[
+  {
+    "directory": "/media/alienware/DATOS/Google Drive/Desarrollo/Proyectos/ValaProjects/gtk-variant-switcher/build",
+    "command": "valac -C --debug --debug --pkg libwnck-3.0 --pkg gtk+-3.0 --color=always --directory gtk-variant-switcher@exe --basedir ../ ../src/Main.vala ../src/configs/Constants.vala ../src/configs/Settings.vala",
+    "file": "../src/Main.vala"
+  },
+  {
+    "directory": "/media/alienware/DATOS/Google Drive/Desarrollo/Proyectos/ValaProjects/gtk-variant-switcher/build",
+    "command": "cc -Igtk-variant-switcher@exe -I. -I.. -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng16 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libwnck-3.0 -I/usr/include/startup-notification-1.0 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -w -g '-DGETTEXT_PACKAGE=\"gtk-variant-switcher\"' -DWNCK_I_KNOW_THIS_IS_UNSTABLE -pthread  -MD -MQ 'gtk-variant-switcher@exe/meson-generated_src_Main.c.o' -MF 'gtk-variant-switcher@exe/meson-generated_src_Main.c.o.d' -o 'gtk-variant-switcher@exe/meson-generated_src_Main.c.o' -c 'gtk-variant-switcher@exe/src/Main.c'",
+    "file": "gtk-variant-switcher@exe/src/Main.c"
+  },
+  {
+    "directory": "/media/alienware/DATOS/Google Drive/Desarrollo/Proyectos/ValaProjects/gtk-variant-switcher/build",
+    "command": "cc -Igtk-variant-switcher@exe -I. -I.. -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng16 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libwnck-3.0 -I/usr/include/startup-notification-1.0 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -w -g '-DGETTEXT_PACKAGE=\"gtk-variant-switcher\"' -DWNCK_I_KNOW_THIS_IS_UNSTABLE -pthread  -MD -MQ 'gtk-variant-switcher@exe/meson-generated_src_configs_Constants.c.o' -MF 'gtk-variant-switcher@exe/meson-generated_src_configs_Constants.c.o.d' -o 'gtk-variant-switcher@exe/meson-generated_src_configs_Constants.c.o' -c 'gtk-variant-switcher@exe/src/configs/Constants.c'",
+    "file": "gtk-variant-switcher@exe/src/configs/Constants.c"
+  },
+  {
+    "directory": "/media/alienware/DATOS/Google Drive/Desarrollo/Proyectos/ValaProjects/gtk-variant-switcher/build",
+    "command": "cc -Igtk-variant-switcher@exe -I. -I.. -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng16 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libwnck-3.0 -I/usr/include/startup-notification-1.0 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -w -g '-DGETTEXT_PACKAGE=\"gtk-variant-switcher\"' -DWNCK_I_KNOW_THIS_IS_UNSTABLE -pthread  -MD -MQ 'gtk-variant-switcher@exe/meson-generated_src_configs_Settings.c.o' -MF 'gtk-variant-switcher@exe/meson-generated_src_configs_Settings.c.o.d' -o 'gtk-variant-switcher@exe/meson-generated_src_configs_Settings.c.o' -c 'gtk-variant-switcher@exe/src/configs/Settings.c'",
+    "file": "gtk-variant-switcher@exe/src/configs/Settings.c"
+  }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="gtk-variant-switcher" path="/gtk-variant-switcher/">
+        <key name="app-theme-variants" type="a(sss)">
+            <default>
+                [('GitKraken','GitKraken','dark'),
+                ('IntelliJ Idea','jetbrains-idea-ce','dark')]
+            </default>
+            <summary>App theme variants</summary>
+            <description>Desired title bar theme variant for apps.</description>
+        </key>
+    </schema>
+</schemalist>
+
