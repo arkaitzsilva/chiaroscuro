@@ -15,6 +15,7 @@ Chiaroscuro is a GTK variant switcher, in Elementary OS light variant is activat
 Steps:
 
 1) Download the code from GitHub and go to project main folder and execute "./app install" from command line to build and install the app.
+
 2) Exec the following command in terminal "xprop WM_CLASS" and select the window you want to configure, you will see the window information, copy the second value.
 ![Settings Screenshot 1](https://github.com/arkaitzsilva/chiaroscuro/blob/master/data/images/step_1.png)
 3) Open dconf editor and go to com.github.arkaitzsilva.chiaroscure settings and add new value like "('App name to be identified by user', 'App window group from previous step', 'variant of window group light/dark')".
