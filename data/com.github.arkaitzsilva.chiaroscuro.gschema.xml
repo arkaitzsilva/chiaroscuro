@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist>
-    <schema id="gtk-variant-switcher" path="/gtk-variant-switcher/">
+    <schema id="com.github.arkaitzsilva.chiaroscuro" path="/com.github.arkaitzsilva.chiaroscuro/">
         <key name="app-theme-variants" type="a(sss)">
             <default>
                 [('GitKraken','GitKraken','dark'),
