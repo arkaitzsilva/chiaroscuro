@@ -1,6 +1,6 @@
 <h1 align="center">Chiaroscuro</h1>
 
-<span style="display:block;text-align:center">![Chiaroscuro Screenshot](https://github.com/arkaitzsilva/chiaroscuro/blob/master/data/images/overlapping_windows.png)</span>
+![Chiaroscuro Screenshot](https://github.com/arkaitzsilva/chiaroscuro/blob/master/data/images/overlapping_windows.png)
 
 ## What is chiaroscuro?
 
@@ -25,5 +25,5 @@ Steps:
 
 IntelliJ Java IDE is an example of chiaroscuro configurable app, configuring chiaroscuro with the dark variant for this app the title bar integrates perfectly with Darcula theme and you can still use the default light theme as default theme in the rest of apps.
 
-<span style="display:block;text-align:center">![Settings Screenshot 3](https://github.com/arkaitzsilva/chiaroscuro/blob/master/data/images/light.png)</span>
-<span style="display:block;text-align:center">![Settings Screenshot 3](https://github.com/arkaitzsilva/chiaroscuro/blob/master/data/images/dark.png)</span>
+![Settings Screenshot 3](https://github.com/arkaitzsilva/chiaroscuro/blob/master/data/images/light.png)
+![Settings Screenshot 3](https://github.com/arkaitzsilva/chiaroscuro/blob/master/data/images/dark.png)
