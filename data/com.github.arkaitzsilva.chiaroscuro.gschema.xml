@@ -3,8 +3,9 @@
     <schema id="com.github.arkaitzsilva.chiaroscuro" path="/com/github/arkaitzsilva/chiaroscuro/">
         <key name="app-theme-variants" type="a(sss)">
             <default>
-                [('GitKraken','GitKraken','dark'),
-                ('IntelliJ Idea','jetbrains-idea-ce','dark')]
+                [('GitKraken', 'GitKraken', 'dark'), 
+                ('IntelliJ Idea Community Edition', 'jetbrains-idea-ce', 'dark'), 
+                ('IntelliJ IDEA Ultimate Edition', 'jetbrains-idea', 'dark')]
             </default>
             <summary>App theme variants</summary>
             <description>Desired title bar theme variant for apps.</description>
